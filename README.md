@@ -9,9 +9,17 @@ pip install nltk
 pip install django==1.10.5
 ```
 
-For setting up the *settings.py* file, see this [page](https://docs.djangoproject.com/en/1.10/topics/settings/).
+For setting up the *settings.py* file, see this [page](https://docs.djangoproject.com/en/1.10/topics/settings/)
 
 For the full list of settings and their values, see this [page](https://docs.djangoproject.com/en/1.10/ref/settings/)
+
+## Execution
+
+```bash
+django manage.py runserver
+```
+
+Read more from [here](https://docs.djangoproject.com/en/3.0/topics/migrations/) to perform the initial database migrations
 
 ## Some simple things you can do with NLTK
 
