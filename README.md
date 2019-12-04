@@ -9,7 +9,8 @@ pip install nltk
 pip install django==1.10.5
 ```
 
-For setting up *settings.py*, see this [page](https://docs.djangoproject.com/en/1.10/topics/settings/)
+For setting up the *settings.py* file, see this [page](https://docs.djangoproject.com/en/1.10/topics/settings/).
+
 For the full list of settings and their values, see this [page](https://docs.djangoproject.com/en/1.10/ref/settings/)
 
 ## Some simple things you can do with NLTK
