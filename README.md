@@ -9,10 +9,10 @@ pip install nltk
 pip install django==1.10.5
 ```
 
-For setting up *settings.py*: see this [page](https://docs.djangoproject.com/en/1.10/topics/settings/)
+For setting up *settings.py*, see this [page](https://docs.djangoproject.com/en/1.10/topics/settings/)
 For the full list of settings and their values, see this [page](https://docs.djangoproject.com/en/1.10/ref/settings/)
 
-##Some simple things you can do with NLTK
+## Some simple things you can do with NLTK
 
 ```bash
 >>> import nltk
@@ -35,5 +35,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-##More Information
+## More Information
 This project was made as a part of my Bachelor Thesis, in a group of three.
